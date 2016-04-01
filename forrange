@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: for range
+# key: range
+# contributor : @atotto
+# --
+for $1, $2 := range $3 {
+	$4
+}
